@@ -2,6 +2,7 @@
 Paper Collection
 
 ## Paper List (Unsorted)
+* 2016 ACL Yuanzhe Zhang∗, Kang Liu∗, Question Answering over Knowledge Base with Neural Attention Combining Global Knowledge Information
 * [20YY-MM][[arXiv](http)] [Title]
 * [20YY-MM][[NIPS](http)]  [Title]
 * [20YY-MM][[IJCAI](http)] [Title]
